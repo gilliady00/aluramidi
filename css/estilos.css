@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #6633ff 0%,#ffc222 100%);
+  background-image: url("../images/imagemafricana.jpg");
   display: flex;
   justify-content: center;
   flex-direction: column;
