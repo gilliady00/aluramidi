@@ -21,7 +21,7 @@ h1 {
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 15rem;
- 
+ justify-content: center;
 }
 
 .teclado {
